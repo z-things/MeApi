@@ -1,0 +1,13 @@
+{
+  "devices": "",
+  "topic":"RPC_CALL",
+  "fromUuid":"",
+  "callbackId":"",
+  "payload": {
+    "cmdName": "",
+    "cmdCode":"",
+    "parameters": {
+
+    }
+  }
+}

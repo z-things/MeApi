@@ -1,0 +1,77 @@
+{
+  "name": "MeApi",
+  "description": "WeiWiz",
+  "version": "0.0.1",
+  "author": {
+    "name": "weicheng.shi",
+    "email": "shiweicheng@weiwiz.com"
+  },
+  "contributors": [
+    {
+      "name": "song.lei",
+      "email": "leisong@weiwiz.com"
+    },
+    {
+      "name": "xianju.chen",
+      "email": "chenxianju@weiwiz.com"
+    },
+    {
+      "name": "zhiyu.xie",
+      "email": "xiezhiyu@weiwiz.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "http://www.weiwiz.com",
+  "keywords": [],
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "^1.16.0",
+    "cookie-parser": "^1.4.3",
+    "crypto": "0.0.3",
+    "express": "^4.14.1",
+    "express-session": "^1.15.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "lodash": "^4.17.4",
+    "meshblu": "^2.2.7",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.8.2",
+    "node-uuid": "^1.4.7",
+    "passport": "^0.3.2",
+    "passport-http-bearer": "^1.0.1",
+    "path": "^0.12.7",
+    "tracer": "^0.8.7",
+    "tv4": "^1.2.7",
+    "util": "^0.10.3",
+    "child_process": "^1.0.2",
+    "node-zookeeper-client": "^0.2.2",
+    "sync-request": "^2.1.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "LICENSE",
+    "History.md",
+    "Readme.md",
+    "server.js",
+    "lib/"
+  ],
+  "scripts": {},
+  "maintainers": [
+    {
+      "name": "song.lei",
+      "email": "leisong@weiwiz.com"
+    },
+    {
+      "name": "xianju.chen",
+      "email": "chenxianju@weiwiz.com"
+    },
+    {
+      "name": "zhiyu.xie",
+      "email": "xiezhiyu@weiwiz.com"
+    }
+  ]
+}
