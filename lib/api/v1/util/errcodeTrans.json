@@ -1,37 +1,79 @@
 {
-  "defaultErrorCode":204004,
-  "user":{},
-  "default":{
-    "addExistDatalog":{
-      "207015":{"errorCode":210107},
-      "207016":{"errorCode":210107},
-      "207017":{"errorCode":210107},
-      "207035":{"errorCode":210106},
-      "207037":{"errorCode":207037},
-      "207038":{"errorCode":210108},
-      "default":{"errorCode":207002}
+  "defaultErrorCode": 204004,
+  "user": {},
+  "default": {
+    "addExistDatalog": {
+      "207015": {
+        "errorCode": 210107
+      },
+      "207016": {
+        "errorCode": 210107
+      },
+      "207017": {
+        "errorCode": 210107
+      },
+      "207035": {
+        "errorCode": 210106
+      },
+      "207037": {
+        "errorCode": 207037
+      },
+      "207038": {
+        "errorCode": 210108
+      },
+      "default": {
+        "errorCode": 207002
+      }
     },
-    "addUserDevice":{
-      "207035":{"errorCode":210106},
-      "207015":{"errorCode":210107},
-      "207016":{"errorCode":210107},
-      "207017":{"errorCode":210107},
-      "207021":{"errorCode":207021},
-      "207032":{"errorCode":207032},
-      "207036":{"errorCode":207036},
-      "207038":{"errorCode":210108},
-      "default":{"errorCode":207002}
+    "addUserDevice": {
+      "207035": {
+        "errorCode": 210106
+      },
+      "207015": {
+        "errorCode": 210107
+      },
+      "207016": {
+        "errorCode": 210107
+      },
+      "207017": {
+        "errorCode": 210107
+      },
+      "207021": {
+        "errorCode": 207021
+      },
+      "207032": {
+        "errorCode": 207032
+      },
+      "207036": {
+        "errorCode": 207036
+      },
+      "207038": {
+        "errorCode": 210108
+      },
+      "default": {
+        "errorCode": 207002
+      }
     },
-    "getSolarDevices":{
-      "204012":{"errorCode":210109},
-      "default":{"errorCode":204004}
+    "getSolarDevices": {
+      "204012": {
+        "errorCode": 210109
+      },
+      "default": {
+        "errorCode": 204004
+      }
     },
-    "addDevice":{
-      "209001":{"errorCode":210103},
-      "default":{"errorCode":204004}
+    "addDevice": {
+      "209001": {
+        "errorCode": 210103
+      },
+      "default": {
+        "errorCode": 204004
+      }
     },
-    "default":{
-      "default":{"errorCode":204004}
+    "default": {
+      "default": {
+        "errorCode": 204004
+      }
     }
   }
 }

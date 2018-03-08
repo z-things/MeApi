@@ -47,3 +47,7 @@ jspm_packages
 .yarn-integrity
 
 .idea
+/config.json
+/.idea/deployment.xml
+/.idea/dictionaries/jacky.xml
+/.idea/MeApi.iml

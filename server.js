@@ -1,5 +1,4 @@
 'use strict';
-
 var syncRequest = require('sync-request');
 var _ = require('lodash');
 var fs = require('fs');
